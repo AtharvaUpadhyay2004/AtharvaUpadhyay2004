@@ -19,9 +19,9 @@
 - Utilized data visualization tools to craft interactive graphical representations of financial data.
 
 #### 🌐 Connect with Me
-- LinkedIn: [Atharva Upadhyay - LinkedIn](https://www.linkedin.com/in/atharva-upadhyay-66b7b1226/)
-- Instagram: [@YourTwitterHandle](atharva_upadhyay_)
-- Email: [YourEmail@example.com](atharva.upadhyay2144@gmail.com)
+- LinkedIn: [Atharva Upadhyay](https://www.linkedin.com/in/atharva-upadhyay-66b7b1226/)
+- Instagram: [Atharva Upadhyay](atharva_upadhyay_)
+- Email: [Atharva Upadhyay](atharva.upadhyay2144@gmail.com)
 
 #### 😄 Fun Fact
 - [Any interesting or quirky fact about yourself]
