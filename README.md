@@ -23,8 +23,6 @@
 - Instagram: [Atharva Upadhyay](atharva_upadhyay_)
 - Email: [Atharva Upadhyay](atharva.upadhyay2144@gmail.com)
 
-#### 😄 Fun Fact
-- [Any interesting or quirky fact about yourself]
 
 Thanks for dropping by! Feel free to explore my repositories and connect with me. Let's collaborate and innovate! 🚀
 
