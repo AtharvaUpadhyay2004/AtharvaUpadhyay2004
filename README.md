@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva Upadhyay</h1>
-<h3 align="center">A dedicated professional with a focus on Data Science, Machine Learning, and Computer Vision. Currently, I'm delving into the world of Natural Language Processing and honing my skills in Google Cloud Platform (GCCP) and Amazon Warehouse Services (AWS) for comprehensive data solutions.</h3>
+<h3 align="center">Data Science Ethusiastic with a focus on Artificial Intelligence, Machine Learning, and Computer Vision. Currently, I'm delving into the world of Natural Language Processing and honing my skills in Google Cloud Platform (GCCP) and Amazon Warehouse Services (AWS) for comprehensive data solutions.</h3>
 
 #### 🔧 Skills
 - Machine Learning
@@ -11,18 +11,17 @@
 
 #### 💼 Professional Experience
 - **Data Analyst Intern**
-  - [Company Name]
-  - [Duration]
-  - [Brief Description of Your Role]
+  - Jithendra Reddy 
+  - Oct 23 to Jan 24
 
 #### 🚀 Accomplishments
 - Created data models and documented data flows to enhance system architecture and improve data quality.
 - Utilized data visualization tools to craft interactive graphical representations of financial data.
 
 #### 🌐 Connect with Me
-- LinkedIn: [Atharva Upadhyay - LinkedIn](#YourLinkedInProfileLink)
-- Twitter: [@YourTwitterHandle](#YourTwitterHandle)
-- Email: [YourEmail@example.com](mailto:YourEmail@example.com)
+- LinkedIn: [Atharva Upadhyay - LinkedIn](https://www.linkedin.com/in/atharva-upadhyay-66b7b1226/)
+- Instagram: [@YourTwitterHandle](atharva_upadhyay_)
+- Email: [YourEmail@example.com](atharva.upadhyay2144@gmail.com)
 
 #### 😄 Fun Fact
 - [Any interesting or quirky fact about yourself]
