@@ -1,32 +1,92 @@
 <h1 align="center">Hi 👋, I'm Atharva Upadhyay</h1>
-<h3 align="center">Data Science Ethusiastic with a focus on Artificial Intelligence, Machine Learning, and Computer Vision. Currently, I'm delving into the world of Natural Language Processing and honing my skills in Google Cloud Platform (GCCP) and Amazon Warehouse Services (AWS) for comprehensive data solutions.</h3>
+<h3 align="center">
+Data Engineer & AI Enthusiast | Building Scalable Data Systems & Intelligent ML Solutions
+</h3>
 
-#### 🔧 Skills
-- Machine Learning
-- Data Analysis
-- Computer Vision
-- Natural Language Processing
-- Google Cloud Platform (GCCP)
-- Data Science
+---
 
-#### 💼 Professional Experience
-- **Data Analyst Intern**
-  - Jithendra Reddy 
-  - Oct 23 to Jan 24
+### 🎓 Education
+**M.Tech Dual Degree in Artificial Intelligence & Data Science**  
+Devi Ahilya Vishwavidyalaya, Indore (2021 – 2026)  
+CGPA: 8.2 / 10  
 
-#### 🚀 Accomplishments
-- Created data models and documented data flows to enhance system architecture and improve data quality.
-- Utilized data visualization tools to craft interactive graphical representations of financial data.
+---
 
-#### 🌐 Connect with Me
-- LinkedIn: [Atharva Upadhyay](https://www.linkedin.com/in/atharva-upadhyay-66b7b1226/)
-- Instagram: [Atharva Upadhyay](atharva_upadhyay_)
-- Email: [Atharva Upadhyay](atharva.upadhyay2144@gmail.com)
+### 💼 Professional Experience
 
+#### 🚀 Data Engineer Intern  
+**Nimbus Property Systems Ltd, Warwick, UK** (Jan 2025 – Present)  
+- Designed & deployed high-throughput ETL/ELT pipelines (Python, Scrapy, Pandas, PostgreSQL) processing **2M+ records/day**
+- Implemented automated data quality checks & anomaly detection improving reliability by **35%**
+- Built Azure-based ingestion pipelines (Blob Storage, Azure SQL) with incremental loads & partitioning
+- Delivered feature-engineered, model-ready datasets for ML experimentation
+- Worked in Agile/Scrum delivering SLA-backed data services
 
-Thanks for dropping by! Feel free to explore my repositories and connect with me. Let's collaborate and innovate! 🚀
+#### 🔍 Selenium Django Developer  
+**Medius AI (Remote)** (Jul 2024 – Sep 2024)  
+- Automated 90% of legal-data ingestion pipelines using Python, Django, REST APIs & Selenium
+- Built real-time data pipelines supporting 500+ filings/week
+- Ensured 99.5% uptime with structured logging, retries & secure API design
+- Integrated CI/CD workflows & ML-ready schemas
 
+#### 📊 Data Analyst Intern  
+**Careeriva (Remote)** (Apr 2024 – Aug 2024)  
+- Scraped & standardized data from 50+ sources (APIs/Web)
+- Conducted EDA, anomaly detection & dashboard reporting
+- Reduced manual analysis time by 40% via automation
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+#### 📈 Research Analyst  
+**Essmart (Remote)** (Jan 2024 – Mar 2024)  
+- Built regression & classification models improving targeting accuracy by 15%
+- Applied time-series analysis & A/B testing on 100K+ records
 
+---
+
+### 🚀 Featured Projects
+
+#### 📰 News Summarization & Sentiment Analysis Tool
+- Built transformer-based NLP system using **DistilBERT (Hugging Face + PyTorch)**
+- Achieved 90% sentiment accuracy
+- Designed reproducible ML pipelines & deployment-ready workflows
+
+#### 🎵 HarmonSync – Music Recommendation System
+- Implemented collaborative filtering & content-based recommendation
+- Added feedback-driven retraining loop
+- Built interactive Streamlit interface
+
+#### 💰 Mutual Fund Recommendation System
+- ML-based recommendation aligned to investor risk profiles
+- Improved portfolio match rate by 25%
+- Integrated explainability insights & Power BI dashboards
+
+---
+
+### 🏆 Certifications & Achievements
+- Google Cloud Foundations (AI, Data, ML)
+- Azure Data Fundamentals
+- Google Analytics (Advanced)
+- 🥇 Skill India Hackathon – Winner
+- 🥇 National Cyber Security Challenge – Winner
+- NCC ‘A’ Certificate Holder
+
+---
+
+### 🔧 Technical Skills
+
+**Programming:** Python, JavaScript, Java, SQL, Bash  
+**Data Engineering:** Airflow, Spark, PostgreSQL, MySQL, MongoDB, ETL/ELT, Data Lakes  
+**Data Science:** ML, DL, NLP, Feature Engineering, Model Evaluation, A/B Testing  
+**Cloud & DevOps:** Azure, AWS, Docker, Kubernetes, Git, CI/CD, MLflow  
+**Frameworks:** Django, FastAPI, Streamlit, REST APIs, PyTorch, TensorFlow  
+**Tools:** Jupyter, Power BI, Excel, GitHub, Matplotlib, Scikit-learn  
+
+---
+
+### 🌐 Connect With Me
+- 🔗 LinkedIn: https://linkedin.com/in/atharva-upadhyay  
+- 💻 GitHub: https://github.com/AtharvaUpadhyay  
+- 📧 Email: atharva.upadhyay2144@gmail.com  
+
+---
+
+⭐ *Passionate about building scalable data platforms, intelligent ML systems, and production-ready AI solutions. Open to Data Engineering, ML Engineering, and AI roles.*
