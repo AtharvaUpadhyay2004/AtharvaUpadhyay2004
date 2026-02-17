@@ -1,92 +1,60 @@
 <h1 align="center">Hi 👋, I'm Atharva Upadhyay</h1>
 <h3 align="center">
-Data Engineer & AI Enthusiast | Building Scalable Data Systems & Intelligent ML Solutions
+Data Engineer & AI Enthusiast passionate about building scalable data systems and intelligent machine learning solutions. I specialize in designing high-throughput ETL pipelines, developing ML-powered applications, and deploying production-ready AI systems using cloud and modern DevOps practices.
 </h3>
 
----
+#### 🔧 Skills
+- Data Engineering (ETL/ELT, Data Pipelines, Feature Engineering)
+- Machine Learning & Deep Learning
+- Natural Language Processing (Transformers, BERT)
+- Cloud Platforms (Azure, AWS, Google Cloud)
+- Backend Development (Django, FastAPI, REST APIs)
+- Data Analysis & Visualization
 
-### 🎓 Education
-**M.Tech Dual Degree in Artificial Intelligence & Data Science**  
-Devi Ahilya Vishwavidyalaya, Indore (2021 – 2026)  
-CGPA: 8.2 / 10  
+#### 💼 Professional Experience
+- **Data Engineer Intern**  
+  - Nimbus Property Systems Ltd, UK  
+  - Jan 2025 – Present  
 
----
+- **Selenium Django Developer**  
+  - Medius AI (Remote)  
+  - Jul 2024 – Sep 2024  
 
-### 💼 Professional Experience
+- **Data Analyst Intern**  
+  - Careeriva (Remote)  
+  - Apr 2024 – Aug 2024  
 
-#### 🚀 Data Engineer Intern  
-**Nimbus Property Systems Ltd, Warwick, UK** (Jan 2025 – Present)  
-- Designed & deployed high-throughput ETL/ELT pipelines (Python, Scrapy, Pandas, PostgreSQL) processing **2M+ records/day**
-- Implemented automated data quality checks & anomaly detection improving reliability by **35%**
-- Built Azure-based ingestion pipelines (Blob Storage, Azure SQL) with incremental loads & partitioning
-- Delivered feature-engineered, model-ready datasets for ML experimentation
-- Worked in Agile/Scrum delivering SLA-backed data services
+- **Research Analyst**  
+  - Essmart (Remote)  
+  - Jan 2024 – Mar 2024  
 
-#### 🔍 Selenium Django Developer  
-**Medius AI (Remote)** (Jul 2024 – Sep 2024)  
-- Automated 90% of legal-data ingestion pipelines using Python, Django, REST APIs & Selenium
-- Built real-time data pipelines supporting 500+ filings/week
-- Ensured 99.5% uptime with structured logging, retries & secure API design
-- Integrated CI/CD workflows & ML-ready schemas
+#### 🚀 Accomplishments
+- Designed and deployed scalable data pipelines processing millions of records daily.
+- Built ML-driven NLP systems achieving 90%+ model accuracy.
+- Automated large-scale data ingestion workflows, improving efficiency by up to 40%.
+- Developed recommendation systems improving user-personalization match rates by 25%.
+- Implemented data quality validation, anomaly detection, and cloud-based ingestion architectures.
 
-#### 📊 Data Analyst Intern  
-**Careeriva (Remote)** (Apr 2024 – Aug 2024)  
-- Scraped & standardized data from 50+ sources (APIs/Web)
-- Conducted EDA, anomaly detection & dashboard reporting
-- Reduced manual analysis time by 40% via automation
+#### 🌐 Connect with Me
+- LinkedIn: [Atharva Upadhyay](https://www.linkedin.com/in/atharva-upadhyay-66b7b1226/)
+- GitHub: [AtharvaUpadhyay](https://github.com/AtharvaUpadhyay)
+- Email: [Atharva Upadhyay](atharva.upadhyay2144@gmail.com)
 
-#### 📈 Research Analyst  
-**Essmart (Remote)** (Jan 2024 – Mar 2024)  
-- Built regression & classification models improving targeting accuracy by 15%
-- Applied time-series analysis & A/B testing on 100K+ records
+Thanks for dropping by! Feel free to explore my repositories and connect with me. I'm always open to collaborating on Data Engineering, Machine Learning, and AI-driven projects 🚀
 
----
 
-### 🚀 Featured Projects
-
-#### 📰 News Summarization & Sentiment Analysis Tool
-- Built transformer-based NLP system using **DistilBERT (Hugging Face + PyTorch)**
-- Achieved 90% sentiment accuracy
-- Designed reproducible ML pipelines & deployment-ready workflows
-
-#### 🎵 HarmonSync – Music Recommendation System
-- Implemented collaborative filtering & content-based recommendation
-- Added feedback-driven retraining loop
-- Built interactive Streamlit interface
-
-#### 💰 Mutual Fund Recommendation System
-- ML-based recommendation aligned to investor risk profiles
-- Improved portfolio match rate by 25%
-- Integrated explainability insights & Power BI dashboards
-
----
-
-### 🏆 Certifications & Achievements
-- Google Cloud Foundations (AI, Data, ML)
-- Azure Data Fundamentals
-- Google Analytics (Advanced)
-- 🥇 Skill India Hackathon – Winner
-- 🥇 National Cyber Security Challenge – Winner
-- NCC ‘A’ Certificate Holder
-
----
-
-### 🔧 Technical Skills
-
-**Programming:** Python, JavaScript, Java, SQL, Bash  
-**Data Engineering:** Airflow, Spark, PostgreSQL, MySQL, MongoDB, ETL/ELT, Data Lakes  
-**Data Science:** ML, DL, NLP, Feature Engineering, Model Evaluation, A/B Testing  
-**Cloud & DevOps:** Azure, AWS, Docker, Kubernetes, Git, CI/CD, MLflow  
-**Frameworks:** Django, FastAPI, Streamlit, REST APIs, PyTorch, TensorFlow  
-**Tools:** Jupyter, Power BI, Excel, GitHub, Matplotlib, Scikit-learn  
-
----
-
-### 🌐 Connect With Me
-- 🔗 LinkedIn: https://linkedin.com/in/atharva-upadhyay  
-- 💻 GitHub: https://github.com/AtharvaUpadhyay  
-- 📧 Email: atharva.upadhyay2144@gmail.com  
-
----
-
-⭐ *Passionate about building scalable data platforms, intelligent ML systems, and production-ready AI solutions. Open to Data Engineering, ML Engineering, and AI roles.*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="spark" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a> 
+</p>
